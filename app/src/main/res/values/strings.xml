@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Alenin Test City Guide</string>
+    <string-array name="menu_names">
+    <item>Новости</item>
+    <item>Настройки</item>
+    <item>О программе</item>
+</string-array>
+    <string name="open_drawer">Open drawer</string>
+    <string name="close_drawer">Close drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_news_fragment">Hello news fragment</string>
+    <string name="hello_settings_fragment">Hello setting fragment</string>
+    <string name="hello_about_fragment">Hello about fragment</string>
+</resources>
