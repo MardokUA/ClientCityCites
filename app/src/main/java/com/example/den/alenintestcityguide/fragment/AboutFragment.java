@@ -1,4 +1,4 @@
-package com.example.den.alenintestcityguide;
+package com.example.den.alenintestcityguide.fragment;
 
 
 import android.os.Bundle;
@@ -7,7 +7,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-
+import com.example.den.alenintestcityguide.R;
 
 
 /**

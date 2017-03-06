@@ -1,24 +1,22 @@
-package com.example.den.alenintestcityguide;
+package com.example.den.alenintestcityguide.activity;
 
 import android.app.Activity;
 import android.app.Fragment;
 import android.app.FragmentTransaction;
-import android.content.Context;
 import android.content.res.Configuration;
 import android.support.v4.widget.DrawerLayout;
 import android.os.Bundle;
 import android.support.v7.app.ActionBarDrawerToggle;
-import android.util.Log;
-import android.view.LayoutInflater;
-import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
-import android.widget.Toast;
 
-import java.util.zip.Inflater;
+import com.example.den.alenintestcityguide.fragment.AboutFragment;
+import com.example.den.alenintestcityguide.fragment.NewsFragment;
+import com.example.den.alenintestcityguide.R;
+import com.example.den.alenintestcityguide.fragment.SettingsFragment;
 
 public class MainActivity extends Activity {
     private ListView drawerList;
